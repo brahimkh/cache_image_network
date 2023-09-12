@@ -3,7 +3,11 @@ import 'dart:convert';
 import 'package:crypto/crypto.dart';
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
+//Author: Brahim Man
+//Date: 09/09/2021
+//From: Phnom Penh, Cambodia
+//Phone: 096 76 49 556 (+855)
+//Description: This is the database service to store the image in the cache
 class DatabaseService {
   // create ibnstance of database
   DatabaseService._();
